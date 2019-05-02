@@ -31,6 +31,9 @@ namespace DragDropDataBinding
             System.Windows.Data.CollectionViewSource customerViewSource = ((System.Windows.Data.CollectionViewSource)(this.FindResource("customerViewSource")));
             // Load data by setting the CollectionViewSource.Source property:
             customerViewSource.Source = DataLayer.GetCustomers();
+            System.Windows.Data.CollectionViewSource statusViewSource = ((System.Windows.Data.CollectionViewSource)(this.FindResource("statusViewSource")));
+            // Load data by setting the CollectionViewSource.Source property:
+            statusViewSource.Source = DataLayer.GetStatuses();
         }
     }
 }
