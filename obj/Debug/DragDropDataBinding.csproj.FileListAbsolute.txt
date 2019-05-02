@@ -1,0 +1,15 @@
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\bin\Debug\DragDropDataBinding.exe.config
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\bin\Debug\DragDropDataBinding.exe
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\bin\Debug\DragDropDataBinding.pdb
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\MainWindow.g.cs
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\MainWindowMVVM.g.cs
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\App.g.cs
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\DragDropDataBinding_MarkupCompile.cache
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\DragDropDataBinding_MarkupCompile.lref
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\MainWindow.baml
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\MainWindowMVVM.baml
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\DragDropDataBinding.g.resources
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\DragDropDataBinding.Properties.Resources.resources
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\DragDropDataBinding.csproj.GenerateResource.Cache
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\DragDropDataBinding.exe
+D:\програмирование\WPF\03 WPF Productivity Playbook\my\02\02 DragDropDataBinding\DragDropDataBinding\DragDropDataBinding\obj\Debug\DragDropDataBinding.pdb
